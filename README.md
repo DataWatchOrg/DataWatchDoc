@@ -57,7 +57,7 @@ Vídeo de apresentação da primeira sprint: https://www.youtube.com/watch?v=GvK
   
 Nesta sprint aplicaremos requisitos de segurança e integridade, utilizando assinatura digital e criptografia, garantindo maior proteção no trafego das requisições do Middleware para o Server CRUD.
 
-![](EsquemaSegurança.png)
+![](EsquemaSeguranca.png)
   
 ### Quarta entrega - Interface Web (05/06/2021)  
   
